@@ -228,4 +228,4 @@ Scratch is offered as a complete free version with all features and updates incl
 Ready to unleash your creativity? Download Scratch today and start creating amazing projects!
 
 ---
-**Last updated:** 2026-10-03 22:31:58 UTC
+**Last updated:** 2026-10-04 02:13:58 UTC
